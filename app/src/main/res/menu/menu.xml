@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Danh sach sv DHKTPM11ATT"
+        android:id="@+id/item_danh_sach_sv">
+        <menu>
+            <item android:id="@+id/item_11ATT"
+                android:title="Danh sach lop 11ATT"/>
+        </menu>
+    </item>
+    <item android:title="Danh sach sv DHKTPM11BTT"
+        android:id="@+id/item_11bTT"/>
+    <item android:title="Danh sach sv HDKTPM11CTT"
+        android:id="@+id/item_11CTT"/>
+</menu>

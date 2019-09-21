@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="danh sach"
+        android:id="@+id/item_danhsach">
+        <menu>
+            <item android:id="@+id/item_lopA"
+                android:title="Danh sach lop A"/>
+            <item android:title="Danh sach lop B"
+                android:id="@+id/item_lopB"/>
+        </menu>
+
+    </item>
+
+</menu>
